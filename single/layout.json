@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.example.allhands.app-mergeDebugResources-32:/layout/row_items.xml",
+        "source": "com.example.allhands.app-main-35:/layout/row_items.xml"
+    },
+    {
+        "merged": "com.example.allhands.app-mergeDebugResources-32:/layout/activity_converse.xml",
+        "source": "com.example.allhands.app-main-35:/layout/activity_converse.xml"
+    },
+    {
+        "merged": "com.example.allhands.app-mergeDebugResources-32:/layout/activity_main.xml",
+        "source": "com.example.allhands.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.allhands.app-mergeDebugResources-32:/layout/actiity_kissing_cats.xml",
+        "source": "com.example.allhands.app-main-35:/layout/actiity_kissing_cats.xml"
+    }
+]

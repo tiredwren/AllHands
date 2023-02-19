@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "com.example.allhands.app-merged_res-33:/drawable_kissing_cats.jpg.flat",
+        "source": "com.example.allhands.app-main-35:/drawable/kissing_cats.jpg"
+    },
+    {
+        "merged": "com.example.allhands.app-merged_res-33:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.allhands.app-main-35:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.allhands.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.allhands.app-main-35:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.allhands.app-merged_res-33:/drawable_reading.jpg.flat",
+        "source": "com.example.allhands.app-main-35:/drawable/reading.jpg"
+    },
+    {
+        "merged": "com.example.allhands.app-merged_res-33:/menu_menu.xml.flat",
+        "source": "com.example.allhands.app-main-35:/menu/menu.xml"
+    },
+    {
+        "merged": "com.example.allhands.app-merged_res-33:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.allhands.app-main-35:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.allhands.app-merged_res-33:/xml_backup_rules.xml.flat",
+        "source": "com.example.allhands.app-main-35:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.allhands.app-merged_res-33:/drawable_converse.jpg.flat",
+        "source": "com.example.allhands.app-main-35:/drawable/converse.jpg"
+    },
+    {
+        "merged": "com.example.allhands.app-merged_res-33:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.allhands.app-main-35:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.allhands.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.allhands.app-main-35:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.allhands.app-merged_res-33:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.allhands.app-pngs-28:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.allhands.app-merged_res-33:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.allhands.app-main-35:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.allhands.app-merged_res-33:/drawable_couple_cats.jpg.flat",
+        "source": "com.example.allhands.app-main-35:/drawable/couple_cats.jpg"
+    },
+    {
+        "merged": "com.example.allhands.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.allhands.app-main-35:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.allhands.app-merged_res-33:/layout_activity_main.xml.flat",
+        "source": "com.example.allhands.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.allhands.app-merged_res-33:/layout_activity_converse.xml.flat",
+        "source": "com.example.allhands.app-main-35:/layout/activity_converse.xml"
+    },
+    {
+        "merged": "com.example.allhands.app-merged_res-33:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.allhands.app-main-35:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.allhands.app-merged_res-33:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.allhands.app-main-35:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.allhands.app-merged_res-33:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.allhands.app-main-35:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.allhands.app-merged_res-33:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.allhands.app-main-35:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.allhands.app-merged_res-33:/drawable_tea.jpg.flat",
+        "source": "com.example.allhands.app-main-35:/drawable/tea.jpg"
+    },
+    {
+        "merged": "com.example.allhands.app-merged_res-33:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.allhands.app-main-35:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.allhands.app-merged_res-33:/layout_row_items.xml.flat",
+        "source": "com.example.allhands.app-main-35:/layout/row_items.xml"
+    },
+    {
+        "merged": "com.example.allhands.app-merged_res-33:/drawable_window_cats.jpg.flat",
+        "source": "com.example.allhands.app-main-35:/drawable/window_cats.jpg"
+    },
+    {
+        "merged": "com.example.allhands.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.allhands.app-main-35:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.allhands.app-merged_res-33:/navigation_nav_graph.xml.flat",
+        "source": "com.example.allhands.app-main-35:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.example.allhands.app-merged_res-33:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.allhands.app-main-35:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.allhands.app-merged_res-33:/layout_actiity_kissing_cats.xml.flat",
+        "source": "com.example.allhands.app-main-35:/layout/actiity_kissing_cats.xml"
+    }
+]
